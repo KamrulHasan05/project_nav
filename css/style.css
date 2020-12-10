@@ -1,0 +1,190 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+/*header start*/
+header{
+	padding: 10px 0;
+	background-color: #121B2A;
+}
+.wrapper{
+	overflow: hidden;
+	width: 80%;
+	/*border: 1px solid #fff;*/
+	margin: 0 auto;
+}
+.logo{
+	float: left;
+	width: 18%;
+	/*border: 1px solid #fff;*/
+}
+.logo img{
+	width: 100%;
+}
+.menu{
+	margin-top: 53px;
+	float: right;
+	width: 82%;
+	/*border: 1px solid #fff;*/
+}
+.menu ul{
+	float: right;
+}
+.menu ul li{
+	float: left;
+	list-style: none;
+}
+.menu ul li a{
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 0 20px;
+	display: inline-block;
+}
+.menu ul li a:hover{
+	color: #0177BD;
+}
+.menu ul li:last-child a{
+	padding-right: 0;
+}
+/*header end*/
+
+/*header2 start*/
+.header1{
+	margin: 10px 0;
+	padding: 10px 0;
+	background-color: #121B2A;
+}
+.wrapper1{
+	overflow: hidden;
+	width: 80%;
+	/*border: 1px solid #fff;*/	
+	margin: 0 auto;
+}
+
+.logo1{
+	float: left;
+	width:18%;
+	/*border: 1px solid #fff;*/
+}
+.logo1 img{
+	width: 100%;
+}
+.menu1{
+	margin-top: 53px;
+	float: right;
+	width: 82%;
+	/*border: 1px solid #fff;*/
+}
+.menu1 ul{
+	float: right;
+}
+.menu1 ul li{
+	float: left;
+	list-style: none;
+}
+.menu1 ul li a {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 0 20px;
+    display: inline-block;
+}
+.menu1 ul li a:hover{
+	color: #0177BD;
+}
+.menu1 ul li:last-child a{
+	padding-right: 0;
+}
+/*header2 end*/
+/*header start*/
+.wrapper2{
+	overflow: hidden;
+    width: 80%;
+    /*border: 1px solid #fff;*/
+    margin: 0 auto;
+}
+.logo2{
+	float: left;
+	width: 18%;
+	/*border: 1px solid #fff;*/
+}
+.logo2 img{
+ width: 100%;
+}
+.menu2{
+	margin-top: 53px;
+	float: right;
+	width: 82%;
+	/*border: 1px solid #fff;*/
+}
+.menu2 ul{
+ float: right;
+}
+.menu2 ul li{
+	float: left;
+	list-style: none;
+
+}
+.menu2 ul li a{
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 0 20px;
+	display: inline-block;
+}
+.menu2 ul li a:hover{
+	color: #0177BD;
+}
+.menu2 ul li:last-child a{
+	padding-right: 0;
+}
+/*header end*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
